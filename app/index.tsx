@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>Hola, mi nombre es Andrés Felipe Cadena Castillo de la ficha 2902082</Text>
     </View>
   );
 }
